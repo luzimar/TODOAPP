@@ -1,0 +1,10 @@
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.deps.json
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.Domain.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.Domain.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.csprojResolveAssemblyReference.cache
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.csproj.CoreCompileInputs.cache
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.AssemblyInfo.cs
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.pdb

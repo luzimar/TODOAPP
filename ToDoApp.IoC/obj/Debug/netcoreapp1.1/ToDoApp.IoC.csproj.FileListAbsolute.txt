@@ -1,0 +1,16 @@
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.IoC.deps.json
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.AppServices.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.Data.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.Domain.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.Data.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.Domain.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.csprojResolveAssemblyReference.cache
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.csproj.CoreCompileInputs.cache
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.AssemblyInfo.cs
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.IoC.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.IoC.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.AppServices.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.pdb

@@ -1,0 +1,12 @@
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\bin\Debug\netcoreapp1.1\ToDoApp.AppServices.deps.json
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\bin\Debug\netcoreapp1.1\ToDoApp.Domain.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\bin\Debug\netcoreapp1.1\ToDoApp.Domain.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\obj\Debug\netcoreapp1.1\ToDoApp.AppServices.csprojResolveAssemblyReference.cache
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\obj\Debug\netcoreapp1.1\ToDoApp.AppServices.csproj.CoreCompileInputs.cache
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\obj\Debug\netcoreapp1.1\ToDoApp.AppServices.AssemblyInfo.cs
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\bin\Debug\netcoreapp1.1\ToDoApp.AppServices.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\bin\Debug\netcoreapp1.1\ToDoApp.AppServices.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.pdb
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\obj\Debug\netcoreapp1.1\ToDoApp.AppServices.dll
+C:\Users\visitante\Desktop\ProjetoAngularComWebCore\ToDoApp.Api\ToDoApp.AppServices\obj\Debug\netcoreapp1.1\ToDoApp.AppServices.pdb

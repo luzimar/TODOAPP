@@ -8,7 +8,7 @@ using ToDoApp.AppServices.Interfaces;
 using ToDoApp.Extensions;
 using ToDoApp.Validators;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+//Controller responsável em realizar as operações de CRUD de uma tarefa
 
 namespace ToDoApp.Controllers
 {
